@@ -37,7 +37,7 @@ const About = () => {
           Introduction
         </p>
         <h2 className={styles.sectionHeadText}>
-          Overview.
+          Aperçu.
         </h2>
       </motion.div>
       <motion.p
