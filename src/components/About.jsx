@@ -46,7 +46,7 @@ const About = () => {
         Hello, je suis un développeur web ambitieux et dynamique qui aspire à acquérir 
         une première expérience professionnelle.
         Je suis à la recherche de nouveaux défis et j'ai une approche créative
-        pour résoudre des problèmes.Capable de travailler en équipe, de communiquer efficacement,
+        pour résoudre des problèmes. Capable de travailler en équipe, de communiquer efficacement,
         et j'ai une soif d'apprendre des autres.
         J'ai une passion pour le développement et je suis motivé à utiliser
         mes compétences pour créer des applications Web innovantes et fonctionnelles.
