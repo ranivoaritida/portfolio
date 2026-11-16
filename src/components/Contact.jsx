@@ -65,14 +65,14 @@ const Contact = () => {
       >
         <div className="bg-black-100 p-8 rounded-[20px]">
           <p className={styles.sectionSubText} >
-            Get in touch
+            Me contacter
           </p>
-          <h3 className={styles.sectionHeadText} >
+          <h4 className={styles.sectionHeadText} >
             Contact
-          </h3>
+          </h4>
           <form ref={formRef}
             onSubmit={handleSubmit}
-            className='mt-12 flex flex-col gap-8'
+            className='mt-4 flex flex-col gap-8'
             >
               <label className='flex flex-col' >
                 <span className='text-white font-medium mb-1' >
